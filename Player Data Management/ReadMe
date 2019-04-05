@@ -1,0 +1,5 @@
+Aim: To create and maintain records of players.
+Specifications 
+    • 	A database file (players_Data.db) that contains a Player table that stores the data for each player. 
+    • 	Display and maintain the player information in order by wins, starting with the player with the most wins.
+        Assumption: The name for each player is unique. 
